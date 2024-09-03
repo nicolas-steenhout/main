@@ -26,17 +26,17 @@ permalink: /meet-nic/
 ## Working with Nic 
 
 <div class="flex-reflow">
-  <div>
+  <div class="card">
     <h3>Nic excels at</h3>
     <p>I'll simplify complex topics and explain them in ways that are easier to digest. I use concrete examples and lived stories to illustrate concepts that are sometimes intangible and harder to grasp.</p>
   </div>
   
-  <div>
+  <div class="card">
     <h3>Nic's motivations</h3>
     <p>I love working with motivated teams. Curiosity and a desire to learn is key here - because there is a lot to learn about accessibility. It's a great reward for me to see that metaphorical lightbulb turn on in your head after I explained something and it made you go "Ah ha! I get it now.".</p>
   </div>
 
-  <div>
+  <div class="card">
     <h3>The thin line</h3>
     <p>There's a thin line between not doing enough and working within a system's limitation. I'll help you stay accountable. I'll do it with grace and respect because I understand your limitations.</p>
   </div>
